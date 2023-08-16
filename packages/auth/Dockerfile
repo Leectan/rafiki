@@ -1,4 +1,4 @@
-FROM node:18.13.0-slim as builder
+FROM node:hydrogen-bookworm-slim as builder
 
 WORKDIR /workspace
 
